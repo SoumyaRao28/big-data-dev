@@ -9,6 +9,7 @@ I am from Bangalore, Karnataka, India. I completed my undergraduate in Computer 
      
 ## Plans
 Upon gaining some years of experience and earning a master’s degree, I will have the capability and qualification to excel in key positions and achieve my goals in     designing new applications with my skill set. I have 4 years of relevant experience in Salesforce and looking for job opportunities related to Salesforce application development. I am also 3x Salesforce certified.
+
 ![Screenshot](screenshot.png)
      
 ## Links
